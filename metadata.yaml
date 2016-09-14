@@ -1,0 +1,34 @@
+_repo: The-Reign-of-Andrew-Jackson--A-Chronicle-of-the-Frontier-in-Politics_13009
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ogg, Frederic Austin
+    birthdate: 1878
+    deathdate: 1951
+    gutenberg_agent_id: '1088'
+    url: http://www.gutenberg.org/2009/agents/1088
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_issued: '2004-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13009'
+language: en
+publication_note: '[S.l. :  s.n.],  1919'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 20
+subjects:
+- !lcc 'E151'
+- !lcsh 'Jackson, Andrew, 1767-1845'
+- !lcsh 'United States -- Politics and government -- 1829-1837'
+- GITenberg
+title: 'The Reign of Andrew Jackson: A Chronicle of the Frontier in Politics'
+url: http://www.gutenberg.org/ebooks/13009
