@@ -1,5 +1,8 @@
 _repo: The-Reign-of-Andrew-Jackson--A-Chronicle-of-the-Frontier-in-Politics_13009
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ogg, Frederic Austin
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1084
     wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13009#The-Reign-of-Andrew-Jackson--A-Chronicle-of-the-Frontier-in-Politics
 gutenberg_issued: '2004-07-23'
 gutenberg_type: Text
 identifiers:
